@@ -21,10 +21,10 @@ Users should be able to:
 
 ## Live site
 
-🚀 []()
+🚀 [https://waquintero-ia.github.io/threeColumnsCard/]()
 
 ## Solution URL
-🚀 []()
+🚀 [https://www.frontendmentor.io/solutions/3-column-preview-card-component-react-tailwind-S2jIGx6IAv]()
 
 ## What I learned
 
