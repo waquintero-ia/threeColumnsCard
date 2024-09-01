@@ -1,0 +1,16 @@
+body {
+  font-family: 'Big Shoulders Display', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding-top: 88px;
+  padding-bottom: 88px;
+}
+
+@media (min-width: 1024px) {
+  body {
+    padding-top: 130px;
+  }
+
+}
